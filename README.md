@@ -10,10 +10,10 @@ To reproduce the results, follow exactly the following steps:
 + For NewsQa: To convert NewsQa dataset to Squad 2.0 format, please follow strictly code in this link: https://github.com/amazon-research/qa-dataset-converter
 
 2. Train 
-After preparing sucessfully data in Squad 2.0 format. For NewsQa, we could have three json files: newsqa_train.json , newsqa_dev.json , newsqa_test.json. Put all of them in same path with 'run_newqa.sh' file.
++ After preparing sucessfully data in Squad 2.0 format. For NewsQa, we could have three json files: newsqa_train.json , newsqa_dev.json , newsqa_test.json. Put all of them in same path with 'run_newqa.sh' file.
 Run command line: 'bash run_newsqa.sh' to start training process. 
 
 3. Test
-To evaluate performance on test set, we only need change --do_train ---> --do_eval and set --dev_set=path_to_test_set. 
++ To evaluate performance on test set, we only need change --do_train ---> --do_eval and set --dev_set=path_to_test_set. 
 Run command line: 'bash test_newqa.sh'
 
