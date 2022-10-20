@@ -6,7 +6,7 @@ Our study conduct the extensive experiments on 2 datasets as: Squad 2.0 vs News 
 To reproduce the results, follow exactly the following steps: 
 
 1. Prepare Data 
-+ For Squad 2.0: Train set vs Dev set can be easily found and download from link: https://rajpurkar.github.io/SQuAD-explorer/
++ For Squad 2.0: Train set vs Dev set can be easily found and downloaded from link: https://rajpurkar.github.io/SQuAD-explorer/
 + For NewsQa: To convert NewsQa dataset to Squad 2.0 format, please follow strictly code in this link: https://github.com/amazon-research/qa-dataset-converter
 
 2. Train 
