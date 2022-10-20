@@ -1,7 +1,7 @@
 # CrossSentenceMRCECIR
 This is source code, which is implementation for submission: 'Exploiting Question-Context Interaction for
-Machine Reading Comprehension'
-We modify this code base on Hugging Face framework for Question Answering: https://huggingface.co/
+Machine Reading Comprehension'.
+We modify this code base on Hugging Face framework for Question Answering: https://huggingface.co/.
 Our study conduct the extensive experiments on 2 datasets as: Squad 2.0 vs News QA. 
 To reproduce the results, follow exactly the following steps: 
 
