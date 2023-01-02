@@ -1,4 +1,4 @@
-# CrossSentenceMRCECIR
+# SentenceLevelMRC
 This is source code, which is implementation for submission: 'Exploiting Question-Context Interaction for
 Machine Reading Comprehension'.
 We modify this code base on Hugging Face framework for Question Answering: https://huggingface.co/.
